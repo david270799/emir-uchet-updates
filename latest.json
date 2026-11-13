@@ -1,0 +1,16 @@
+{
+  "android": {
+    "versionCode": 14,
+    "versionName": "2.3",
+    "notes": "Calculator in amount fields (1700+2000), cursor fix, sync time label; APK 2.3, screenshots",
+    "url": "https://github.com/david270799/emir-uchet-updates/releases/download/android-2.3/EmirUchet-2.3.apk",
+    "size": 4654683
+  },
+  "desktop": {
+    "version": "1.1.0",
+    "notes": "Calculator in amount fields (1700+2000), cursor fix, sync time label; APK 2.3, screenshots",
+    "url": "https://github.com/david270799/emir-uchet-updates/releases/download/desktop-1.1.0/EmirUchet-1.1.0.msi",
+    "size": 104907164,
+    "setup": "https://github.com/david270799/emir-uchet-updates/releases/download/desktop-1.1.0/EmirUchet-Setup-1.1.0.exe"
+  }
+}
